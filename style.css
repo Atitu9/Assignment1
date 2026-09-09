@@ -7,7 +7,6 @@ body {
 h2, h3 {
     color: #415e7b;
 }
-
 p {
     line-height: 1.6;
     font-size: 16px;
@@ -36,7 +35,6 @@ html {
     border-bottom: 4px solid #1a5276; 
     text-align: center;
 }
-
 .main-content {
     width: 90%;               
     max-width: 1000px;
@@ -62,7 +60,6 @@ html {
     border: 1px solid #a3e4d7;
     margin-bottom: 10px;
 }
-
 .position-relative {
     position: relative;          
     top: 10px;
@@ -90,7 +87,6 @@ html {
     padding: 8px 12px;
     border: 1px solid #f5b7b1;
 }
-
 .responsive-img {
     max-width: 100%;          
     height: auto;
@@ -102,7 +98,6 @@ html {
     padding: 15px;
     margin-top: 20px;
 }
-
 .float-left-box {
     float: left;
     width: 45%;
@@ -110,7 +105,6 @@ html {
     padding: 10px;
     border: 1px solid #a9dfbf;
 }
-
 .float-right-box {
     float: right;
     width: 45%;
@@ -118,7 +112,6 @@ html {
     padding: 10px;
     border: 1px solid #a9cce3;
 }
-
 .clearfix::after {
     content: "";
     display: table;
