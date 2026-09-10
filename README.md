@@ -18,7 +18,6 @@
 #### Screenshot — Part 1
 ![Part 1 Screenshot](./screenshots/part1.png)
 
----
 
 ### Part 2. Intermediate HTML
 * **Step 5:** Built a class schedule table with 3 columns ("Subject", "Day", "Time").
@@ -29,7 +28,6 @@
 #### Screenshot — Part 2
 ![Part 2 Screenshot](./screenshots/part2.png)
 
----
 
 ### Part 3. Introduction to CSS
 * **Step 9 & 12:** Applied styling via External CSS (`style.css`).
@@ -40,7 +38,6 @@
 #### Screenshot — Part 3
 ![Part 3 Screenshot](./screenshots/part3.png)
 
----
 
 ### Part 4. Intermediate CSS
 * **Step 15:** Added a custom website favicon (`favicon.png`).
@@ -54,10 +51,9 @@
 #### Screenshot — Part 4
 ![Part 4 Screenshot](./screenshots/part4.png)
 
----
 
 ## Brief Summary of Work Process
 1. **HTML Structure:** Started by building the semantic skeleton of the document, adding personal details, lists, images, tables, and form inputs.
 2. **CSS Styling:** Connected an external stylesheet to style headers, text colors, and background highlights. Configured classes and IDs to distinguish unique elements.
 3. **Layout & Positioning:** Organized the content using layout container `<div>` tags. Experimented with Box Model spacing, relative and absolute positioning, and float layouts.
-4. **Publishing:** Linked the project to a remote Git repository in VS Code and deployed the website using GitHub Pages.
+4. **Publishing:** Linked the project to a remote Git repository in VS Code and deployed the website using GitHub Pages. https://atitu9.github.io/Assignment1/
